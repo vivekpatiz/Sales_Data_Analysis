@@ -27,6 +27,7 @@ A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is
 ![image](https://user-images.githubusercontent.com/41379292/201622032-8426c5ca-7a0b-415d-a071-b02fa34f1ae7.png)
 
 ##2. What city sold the most product?
+
 ![image](https://user-images.githubusercontent.com/41379292/201622210-ec4183d4-b5b9-4ac5-9ddc-5b90ba003d4b.png)
 
 ##3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
